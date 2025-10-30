@@ -18,4 +18,4 @@ Our vision is to create a global registry of users' Earth-related proof, which c
 - **Integrate with Environmental Impact Systems:** Allow users to submit proof of their contributions to environmental sustainability or climate-related activities.
 - **Community Governance:** Implementing decentralized governance where the community votes on whether proofs are valid or not.
 
-**contract address:** 0x048698e66b6ee7d7c43aca09d9b0c3485dd42de5
+**contract address:** 0x1a9d4CB0D3f4A6a8BCdE11Ab3886e14802b2146B
