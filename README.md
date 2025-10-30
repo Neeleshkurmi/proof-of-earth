@@ -19,3 +19,6 @@ Our vision is to create a global registry of users' Earth-related proof, which c
 - **Community Governance:** Implementing decentralized governance where the community votes on whether proofs are valid or not.
 
 **contract address:** 0x1a9d4CB0D3f4A6a8BCdE11Ab3886e14802b2146B
+
+
+<img width="1443" height="727" alt="image" src="https://github.com/user-attachments/assets/80535da2-9378-40b6-a44c-87fb1574ca09" />
